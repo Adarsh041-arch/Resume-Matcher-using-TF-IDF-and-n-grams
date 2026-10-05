@@ -1,0 +1,101 @@
+{
+  "version": "1.0.0",
+  "description": "Comprehensive Curated Skill Taxonomy for Tech & Data Engineering Roles",
+  "categories": {
+    "Languages": [
+      "Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "C", "Go", "Golang", 
+      "Rust", "Ruby", "PHP", "Swift", "Kotlin", "Scala", "R", "SQL", "PL/SQL", 
+      "Bash", "Shell", "PowerShell", "Dart", "Julia", "MATLAB", "Perl", "Lua", 
+      "Solidity", "Haskell", "Elixir", "Clojure", "HTML", "HTML5", "CSS", "CSS3", "Sass"
+    ],
+    "Frameworks & Libraries": [
+      "React", "React.js", "Next.js", "Vue", "Vue.js", "Angular", "Node.js", "Express", "Express.js",
+      "Django", "Flask", "FastAPI", "Spring Boot", "Spring", "ASP.NET", ".NET Core", "Ruby on Rails",
+      "PyTorch", "TensorFlow", "Keras", "Scikit-Learn", "Sklearn", "Pandas", "NumPy", "SciPy", 
+      "Hugging Face", "Transformers", "LangChain", "LlamaIndex", "spaCy", "NLTK", "OpenCV",
+      "GraphQL", "REST API", "RESTful APIs", "gRPC", "Tailwind CSS", "Bootstrap", "Redux",
+      "Streamlit", "Gradio", "Jupyter", "Matplotlib", "Seaborn", "Plotly", "Statsmodels",
+      "XGBoost", "LightGBM", "CatBoost", "FastAI", "Gensim", "Timm", "Polars", "Dask", "Ray"
+    ],
+    "Cloud & DevOps": [
+      "AWS", "Amazon Web Services", "EC2", "S3", "AWS Lambda", "CloudWatch", "ECS", "EKS", "IAM", "RDS",
+      "GCP", "Google Cloud", "Google Cloud Platform", "GKE", "Cloud Functions", "BigQuery", "Cloud Run",
+      "Azure", "Microsoft Azure", "Azure DevOps", "Docker", "Kubernetes", "K8s", "Docker Compose",
+      "Terraform", "Ansible", "Helm", "CI/CD", "GitHub Actions", "GitLab CI", "Jenkins", "CircleCI",
+      "Prometheus", "Grafana", "ArgoCD", "Linux", "Ubuntu", "Debian", "CentOS", "RedHat",
+      "Nginx", "Apache", "Serverless", "CloudFormation", "Datadog", "New Relic", "OpenTelemetry"
+    ],
+    "Databases & Big Data": [
+      "PostgreSQL", "Postgres", "MySQL", "SQLite", "MongoDB", "Redis", "Cassandra", "Elasticsearch",
+      "DynamoDB", "Oracle", "Microsoft SQL Server", "Neo4j", "Snowflake", "Google BigQuery", "AWS Redshift",
+      "Apache Kafka", "Kafka", "RabbitMQ", "Celery", "Apache Airflow", "Airflow", "Apache Spark", "Spark",
+      "PySpark", "Hadoop", "Delta Lake", "dbt", "Hive", "Presto", "Trino", "ClickHouse",
+      "Pinecone", "Milvus", "ChromaDB", "Chroma", "Qdrant", "Weaviate", "FAISS"
+    ],
+    "AI & Machine Learning": [
+      "Machine Learning", "Deep Learning", "NLP", "Natural Language Processing", "Computer Vision",
+      "LLM", "Large Language Models", "Generative AI", "GenAI", "RAG", "Retrieval Augmented Generation",
+      "Fine-Tuning", "Prompt Engineering", "Transformer", "BERT", "GPT", "Word2Vec", "TF-IDF",
+      "Vector Embeddings", "Semantic Search", "Named Entity Recognition", "NER", "Topic Modeling",
+      "Sentiment Analysis", "Text Classification", "Summarization", "Reinforcement Learning",
+      "Supervised Learning", "Unsupervised Learning", "Feature Engineering", "Model Deployment",
+      "MLOps", "Model Monitoring", "Weights & Biases", "Wandb", "MLflow", "ONNX", "TensorRT",
+      "Neural Networks", "CNN", "RNN", "LSTM", "Autoencoders", "Diffusion Models"
+    ],
+    "Methodologies & Soft Skills": [
+      "Agile", "Scrum", "Kanban", "JIRA", "System Design", "Microservices", "OOP",
+      "Object-Oriented Programming", "Design Patterns", "Data Structures", "Algorithms",
+      "Unit Testing", "Integration Testing", "TDD", "Test-Driven Development", "Git", "GitHub",
+      "GitLab", "Version Control", "Problem Solving", "Critical Thinking", "Team Collaboration",
+      "Communication", "Leadership", "Code Review", "Mentoring", "Cross-Functional",
+      "Stakeholder Management", "Project Management", "Technical Documentation", "Continuous Learning"
+    ]
+  },
+  "aliases": {
+    "k8s": "Kubernetes",
+    "react.js": "React",
+    "reactjs": "React",
+    "vue.js": "Vue",
+    "vuejs": "Vue",
+    "node": "Node.js",
+    "nodejs": "Node.js",
+    "express.js": "Express",
+    "expressjs": "Express",
+    "golang": "Go",
+    "postgres": "PostgreSQL",
+    "sklearn": "Scikit-Learn",
+    "scikit learn": "Scikit-Learn",
+    "hf": "Hugging Face",
+    "huggingface": "Hugging Face",
+    "amazon web services": "AWS",
+    "google cloud platform": "GCP",
+    "google cloud": "GCP",
+    "ms azure": "Azure",
+    "microsoft azure": "Azure",
+    "llms": "LLM",
+    "large language model": "LLM",
+    "large language models": "LLM",
+    "genai": "Generative AI",
+    "generative-ai": "Generative AI",
+    "retrieval augmented generation": "RAG",
+    "retrieval-augmented generation": "RAG",
+    "ml": "Machine Learning",
+    "dl": "Deep Learning",
+    "cv": "Computer Vision",
+    "nlp": "NLP",
+    "natural language processing": "NLP",
+    "tf-idf": "TF-IDF",
+    "tfidf": "TF-IDF",
+    "ci / cd": "CI/CD",
+    "cicd": "CI/CD",
+    "ci-cd": "CI/CD",
+    "continuous integration": "CI/CD",
+    "continuous deployment": "CI/CD",
+    "object oriented programming": "OOP",
+    "object-oriented programming": "OOP",
+    "pyspark": "Apache Spark",
+    "spark": "Apache Spark",
+    "airflow": "Apache Airflow",
+    "kafka": "Apache Kafka"
+  }
+}

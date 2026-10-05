@@ -1,0 +1,29 @@
+
+PRIYA PATEL
+Seattle, WA | priya.patel@devmail.com | github.com/priyapatel
+
+PROFESSIONAL SUMMARY
+Backend Software Engineer with 4+ years of experience designing robust RESTful APIs, microservices, and distributed data systems. Expert in Python, FastAPI, Django, PostgreSQL, Redis, and Apache Kafka. Passionate about clean architecture, TDD, and scalable system design.
+
+TECHNICAL SKILLS
+• Languages: Python, Go, SQL, Bash
+• Frameworks: FastAPI, Django, Flask, Express, Node.js
+• Databases: PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch
+• Distributed Systems & Messaging: Apache Kafka, RabbitMQ, Celery
+• Cloud & Tools: Docker, Docker Compose, AWS, Git, GitHub, Linux, Nginx
+• Practices: Unit Testing, TDD, Agile, Scrum, System Design, Microservices, OOP
+
+EXPERIENCE
+Senior Backend Developer | FinTech Nexus | 2022 - Present
+• Designed distributed payment processing microservices handling $50M+ monthly transaction volume using FastAPI and PostgreSQL.
+• Implemented event-driven message queuing with Apache Kafka and Celery, decoupling synchronous dependencies.
+• Reduced database query latency by 65% through Redis caching and PostgreSQL indexing strategies.
+• Authored comprehensive unit testing suites with pytest, maintaining 95% test coverage under strict TDD practices.
+
+Backend Software Engineer | StreamLine Media | 2020 - 2022
+• Developed REST APIs using Django and Django REST Framework for content streaming service.
+• Managed containerized environments with Docker and deployed services onto AWS EC2 and RDS.
+• Conducted peer code reviews and mentored junior developers on OOP principles and clean code.
+
+EDUCATION
+B.S. in Software Engineering | University of Washington

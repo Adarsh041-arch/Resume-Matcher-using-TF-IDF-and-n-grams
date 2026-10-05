@@ -1,0 +1,23 @@
+
+Job Title: Senior Data Scientist - AI & NLP
+Company: Apex Artificial Intelligence
+Location: Remote (US)
+
+About the Role:
+We are seeking an experienced Senior Data Scientist to spearhead our Generative AI and NLP initiatives. In this role, you will design and deploy state-of-the-art machine learning models, RAG systems, and transformer-based architectures to power next-generation intelligent applications.
+
+Key Responsibilities:
+• Build and fine-tune large language models (LLM) and transformer architectures (BERT, GPT) for custom domain tasks.
+• Design and productionize Retrieval-Augmented Generation (RAG) pipelines using LangChain, Hugging Face, and vector databases like Pinecone or ChromaDB.
+• Develop end-to-end Machine Learning pipelines from feature engineering to model deployment using PyTorch, Scikit-Learn, and Python.
+• Deploy scalable inference microservices using FastAPI and Docker on AWS cloud infrastructure (EC2, S3, EKS).
+• Collaborate with cross-functional teams in an Agile / Scrum framework to translate business needs into technical ML solutions.
+• Implement robust MLOps practices, model monitoring, and experiment tracking with MLflow or Weights & Biases.
+
+Qualifications & Skills:
+• 4+ years of professional experience in Data Science, Machine Learning, and NLP.
+• Expert proficiency in Python, SQL, PyTorch, and Scikit-Learn.
+• Deep understanding of Deep Learning, Transformers, RAG, and Vector Embeddings.
+• Hands-on experience with Docker, Kubernetes, AWS, and CI/CD pipelines.
+• Strong foundation in Data Structures, System Design, and Unit Testing.
+• Excellent communication and problem-solving abilities.

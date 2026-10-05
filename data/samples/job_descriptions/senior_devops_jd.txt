@@ -1,0 +1,16 @@
+
+Job Title: Senior Cloud & DevOps Engineer
+Company: CloudVanguard Enterprise
+Location: Remote
+
+Role Overview:
+CloudVanguard is looking for a Senior DevOps Engineer to scale our multi-cloud infrastructure and streamline developer operations. You will automate cloud environments, orchestrate Kubernetes clusters, and build hardened CI/CD pipelines.
+
+Key Requirements:
+• Expert knowledge of AWS cloud services: EC2, S3, RDS, IAM, EKS, and CloudWatch.
+• Production experience with Kubernetes (K8s), Helm charts, and Docker containerization.
+• Extensive experience writing Infrastructure as Code using Terraform and Ansible.
+• Proven capability building automated CI/CD pipelines with GitHub Actions and ArgoCD.
+• Strong proficiency in Linux administration, Bash scripting, and Python automation.
+• Experience setting up monitoring, metrics, and alerting with Prometheus, Grafana, and Datadog.
+• Solid background in Microservices architecture, Nginx, and System Design.

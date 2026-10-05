@@ -1,0 +1,29 @@
+
+ALEX CHEN
+San Francisco, CA | alex.chen@email.com | github.com/alexchen | linkedin.com/in/alexchen
+
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer & Data Scientist with 5+ years of experience building, deploying, and scaling predictive models and Generative AI applications. Proficient in PyTorch, Scikit-Learn, and NLP pipelines using Transformers, BERT, and LangChain. Proven track record of architecting RAG systems and optimizing vector search across high-throughput production environments on AWS.
+
+TECHNICAL SKILLS
+• Languages: Python, SQL, R, Bash
+• AI & Machine Learning: Machine Learning, Deep Learning, NLP, LLM, RAG, Transformers, BERT, Computer Vision, Feature Engineering, Supervised Learning, Unsupervised Learning, Fine-Tuning
+• Frameworks & Libraries: PyTorch, Scikit-Learn, Hugging Face, LangChain, Pandas, NumPy, SciPy, OpenCV, FastAPI
+• Databases & Vector Stores: PostgreSQL, MongoDB, Redis, Pinecone, ChromaDB
+• Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, Git, GitHub, Linux, MLflow, Weights & Biases
+• Methodologies: Agile, Scrum, Unit Testing, System Design, Code Review
+
+EXPERIENCE
+Lead Data Scientist | NeuroTech Analytics | 2022 - Present
+• Designed and shipped an enterprise RAG pipeline utilizing LangChain, Hugging Face Transformers, and Pinecone vector search, accelerating query resolution by 40%.
+• Fine-tuned open-source LLMs using PyTorch and LoRA, achieving 92% domain-specific extraction accuracy.
+• Engineered scalable ML pipelines using Scikit-Learn and Pandas on AWS EC2 and S3, processing 10M+ daily transactions.
+• Established CI/CD deployment pipelines using Docker and GitHub Actions, slashing release cycles by 50%.
+
+Machine Learning Engineer | DataCore Systems | 2019 - 2022
+• Implemented NLP sentiment classification models using BERT and spaCy, boosting marketing campaign conversion by 22%.
+• Built customer churn prediction models using Scikit-Learn (Random Forest, XGBoost) and SQL feature stores.
+• Deployed RESTful API endpoints with FastAPI and Docker containerization.
+
+EDUCATION
+B.S. in Computer Science | University of California, Berkeley

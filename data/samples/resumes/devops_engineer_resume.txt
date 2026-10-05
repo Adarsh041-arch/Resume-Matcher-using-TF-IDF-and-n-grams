@@ -1,0 +1,28 @@
+
+JORDAN SMITH
+Austin, TX | jordan.smith@cloudops.io | github.com/jordansmith
+
+PROFESSIONAL SUMMARY
+Lead Cloud & DevOps Engineer with 6+ years of expertise in Kubernetes, Terraform, AWS cloud architecture, and automated CI/CD pipelines. Specializes in infrastructure as code, zero-downtime microservices deployments, and enterprise monitoring with Prometheus, Grafana, and Datadog.
+
+TECHNICAL SKILLS
+• Cloud & Infrastructure: AWS, EC2, S3, RDS, IAM, CloudWatch, EKS, Azure, Google Cloud, Docker, Kubernetes, Helm
+• Infrastructure as Code: Terraform, Ansible, CloudFormation
+• CI/CD & Automation: GitHub Actions, GitLab CI, Jenkins, ArgoCD, Bash, Python, Linux, Ubuntu
+• Observability & Security: Prometheus, Grafana, Datadog, ELK Stack, OpenTelemetry
+• Networking & Middleware: Nginx, REST API, Microservices, DNS, SSL/TLS
+
+EXPERIENCE
+Senior DevOps Engineer | CloudScale Networks | 2021 - Present
+• Architected multi-region Kubernetes clusters on AWS EKS using Terraform, managing 200+ microservices with 99.99% uptime.
+• Built end-to-end CI/CD workflows via GitHub Actions and ArgoCD, reducing deployment times from 45 minutes to 4 minutes.
+• Automated infrastructure provisioning with Terraform and Ansible, eliminating manual configuration drift.
+• Set up comprehensive observability with Prometheus, Grafana, and CloudWatch alerts.
+
+DevOps Systems Engineer | Infrastructure Hub | 2018 - 2021
+• Managed AWS EC2, S3, and RDS infrastructure supporting 2M+ active mobile users.
+• Containerized legacy monolith into Docker containers and orchestrated deployment using Docker Compose and Kubernetes.
+• Implemented automated security compliance scans and vulnerability assessments in Jenkins pipelines.
+
+EDUCATION
+B.S. in Information Systems | University of Texas at Austin

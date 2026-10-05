@@ -1,0 +1,15 @@
+
+Job Title: Senior Backend Engineer (Python / FastAPI)
+Company: DataWave Technologies
+Location: New York, NY / Hybrid
+
+Job Description:
+DataWave is searching for a talented Senior Backend Engineer to architect high-throughput APIs and distributed data pipelines.
+
+Requirements:
+• 4+ years of software development experience with Python, FastAPI, and Django.
+• Strong experience with relational and NoSQL databases: PostgreSQL, Redis, and MongoDB.
+• Deep expertise with message brokers and event streaming: Apache Kafka, RabbitMQ, and Celery.
+• Containerization and cloud deployment experience with Docker, AWS, and Git.
+• Commitment to Test-Driven Development (TDD), Unit Testing, and Agile methodologies.
+• Strong knowledge of OOP, Data Structures, Algorithms, and System Design.
